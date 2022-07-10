@@ -1,3 +1,3 @@
-# Tussa Extractor
+# Tussa Browser
 
-Extract bus lines data from Tussa website
+Improved version of the bus line application for Santiago de Compostela
