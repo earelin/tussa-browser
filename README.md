@@ -1,2 +1,3 @@
-# tussa-extractor
-Extract data from Tussa website
+# Tussa Extractor
+
+Extract bus lines data from Tussa website
